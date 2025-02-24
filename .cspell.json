@@ -1,0 +1,27 @@
+{
+  "ignorePaths": ["node_modules/**", "dist/**", "server/yarn.lock"],
+  "ignoreWords": ["loglevel", "tinymce"],
+  "words": [
+    "3eesq",
+    "advlist",
+    "aligncenter",
+    "alignjustify",
+    "alignleft",
+    "alignright",
+    "bullist",
+    "charmap",
+    "matchtext",
+    "clickaway",
+    "cloudinary",
+    "draftjs",
+    "Flexy",
+    "forecolor",
+    "insertdatetime",
+    "numlist",
+    "outdent",
+    "removeformat",
+    "Remy",
+    "searchreplace",
+    "visualblocks"
+  ]
+}
